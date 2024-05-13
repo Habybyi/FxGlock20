@@ -1,8 +1,6 @@
 fx_version 'cerulean'
-games 'gta5'
-
-author'habybyi'
-description 'Fx glock20 - Created using vWeaponsToolkit'
+games {'gta5'}
+description 'Add-on weapon generated using vWeaponsToolkit'
 
 files{
 	'**/weaponcomponents.meta',
